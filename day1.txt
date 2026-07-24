@@ -1,0 +1,1 @@
+Day 1: Configured macOS, Homebrew, Oh My Zsh, VS Code, and Git SSH.
